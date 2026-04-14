@@ -1,0 +1,16 @@
+OrderID,CustomerName,Product,Category,City,Sales,Quantity,Discount,Profit,OrderDate,Feedback
+1001,Asha,Keyboard,Electronics,Bangalore,1500,2,10,300,1/10/2024,Excellent product
+1002,Ravi,Mouse,Electronics,Mysore,800,1,5,120,1/11/2024,Good quality
+1003,Priya,Notebook,Stationery,Bangalore,200,5,0,50,1/12/2024,Very useful
+1004,Kiran,Pen,Stationery,Mangalore,100,10,0,30,1/13/2024,Good
+1005,Anu,Headphones,Electronics,Hubli,2500,1,15,400,1/14/2024,Sound is amazing
+1006,Manoj,Chair,Furniture,Bangalore,3500,1,20,500,1/15/2024,Comfortable chair
+1007,Sneha,Desk,Furniture,Mysore,4500,1,10,700,1/16/2024,Strong and durable
+1008,Rahul,Laptop Stand,Electronics,Bangalore,1200,2,5,200,1/17/2024,Useful accessory
+1009,Divya,Marker,Stationery,Hubli,150,6,0,40,1/18/2024,Good markers
+1010,Vijay,Table,Furniture,Mangalore,5000,1,25,900,1/19/2024,Very sturdy
+1011,Meena,Notebook,Stationery,Bangalore,,4,0,60,1/20/2024,Useful
+1012,Arjun,Mouse,Electronics,Mysore,850,1,5,,1/21/2024,Good product
+1013,Asha,Keyboard,Electronics,Bangalore,1500,2,10,300,1/10/2024,Excellent product
+1014,Nisha,Lamp,Furniture,Hubli,1800,1,10,250,1/22/2024,Nice design
+1015,Varun,Pen,Stationery,Bangalore,120,8,0,25,1/23/2024,Good writing
